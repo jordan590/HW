@@ -17,6 +17,7 @@ public class HW {
      */
     public static void main(String[] args) {
         System.out.println("HW!!!!!!!!");
+        System.out.println("If this shows up on netbeans, it worked!");
     }
     
 }
